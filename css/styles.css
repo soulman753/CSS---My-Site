@@ -23,6 +23,14 @@ h3 {
     padding-top: 100px;
 }
 
+.middleContainer {
+
+}
+
+.bottomContainer {
+
+}
+
 .pro {
     text-decoration: underline;
 }
@@ -31,6 +39,19 @@ h3 {
     width: 20%;
     border-radius: 20%;
     background-color: rgba(19, 17, 17, 0.589);
+}
+
+.html-skills {
+    background-color: rgba(83, 107, 243, 0.589);
+    width: 20%;
+    border-radius: 10%;
+}
+
+.css-skills {
+    background-color: rgba(243, 42, 42, 0.507);
+    height: 307.20px;
+    width: 20%;
+    border-radius: 10%;
 }
 
 .top-cloud {
